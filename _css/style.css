@@ -74,9 +74,9 @@ textarea {resize: vertical; }
 	max-width: 400px;
 	margin: 20px auto;
 	padding: 20px 20px;
-	background: #EFEFEF;
+	background: #F7F7F7;
 	border-radius: 4px;
-	border: 1px solid #DFDFDF;
+	border: 1px solid #EFEFEF;
 }
 
 .form-container label {
