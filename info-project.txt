@@ -1,0 +1,46 @@
+=========================================
+
+# Contact form 		[Octomber, 2016]
+Basic contact form, ready for use, with inline and server validation
+
+=========================================
+
+# Front Javascript validation
+	Parsley JS validation
+	http://parsleyjs.org/
+
+# Server validation
+	PHP
+
+# Send mail: PHPMailer
+
+=========================================
+
+# Form fields
+	name
+	email
+	url
+	message
+	fake (bottrap) [hidden]
+	submit
+
+=========================================
+
+#Files:
+	- index.php [contact form]
+	- form-result [result page]
+	_css [directory]
+		- style.css [basic form style]
+	_js [directory]
+		- jquery.min.js [jQuery v3.1.1]
+		- script.js [custom scripts]
+	_lib [vendor directory: PHPMailer]
+
+=========================================
+
+
+
+=========================================
+=========================================
+
+
