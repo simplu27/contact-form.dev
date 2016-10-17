@@ -1,6 +1,8 @@
-<?php 
+<?php
+	// Daca 'fake' este completat, inseamna ca este bot,
+	// asa ca redirectioneaza
 	if ($_POST['fake'] !== "") {
-		header("Location: http://www.google.com");
+		header("Location: index.php");
 		exit();
 	}
 ?><!DOCTYPE html>

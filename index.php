@@ -61,7 +61,7 @@
 		<br>
 			<textarea name="message" id="message" cols="50" rows="4" required=""></textarea>
 		<br>
-			<input style="display:none;" type="text" id="fake" name="fake" value="x">
+			<input style="display:none;" type="text" id="fake" name="fake" value="">
 
 			<input type="submit" name="submit" id="submit" value="Submit">
 
